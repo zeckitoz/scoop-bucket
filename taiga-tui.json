@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/zeckitoz/taiga-tui/releases/download/v0.1.0/taiga-tui_0.1.0_windows_amd64.zip",
+            "bin": [
+                "taiga-tui.exe"
+            ],
+            "hash": "451fceb7c6dd1f465cf11cf6a44af634b171bb49fee09edcdc3cb036b9cdf905"
+        },
+        "arm64": {
+            "url": "https://github.com/zeckitoz/taiga-tui/releases/download/v0.1.0/taiga-tui_0.1.0_windows_arm64.zip",
+            "bin": [
+                "taiga-tui.exe"
+            ],
+            "hash": "2c6ef3ae986a133e71ec6067e48b9455c313e535e8aa229470c688c094ad1133"
+        }
+    },
+    "homepage": "https://github.com/zeckitoz/taiga-tui",
+    "license": "MIT",
+    "description": "Keyboard-driven terminal UI for Taiga Taskboards and Kanban Boards"
+}
