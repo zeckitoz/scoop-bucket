@@ -1,19 +1,19 @@
 {
-    "version": "0.2.2",
+    "version": "1.0.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/zeckitoz/taiga-tui/releases/download/v0.2.2/taiga-tui_0.2.2_windows_amd64.zip",
+            "url": "https://github.com/zeckitoz/taiga-tui/releases/download/v1.0.0/taiga-tui_1.0.0_windows_amd64.zip",
             "bin": [
                 "taiga-tui.exe"
             ],
-            "hash": "49a20c9bc7fb411d50ece44a5511377f562e0cbe3987f19594a6271c68e32c09"
+            "hash": "6d25e27689e0a26998f3c9b9c07394d0a76fcf1ab4ede1deafdb745c7169752f"
         },
         "arm64": {
-            "url": "https://github.com/zeckitoz/taiga-tui/releases/download/v0.2.2/taiga-tui_0.2.2_windows_arm64.zip",
+            "url": "https://github.com/zeckitoz/taiga-tui/releases/download/v1.0.0/taiga-tui_1.0.0_windows_arm64.zip",
             "bin": [
                 "taiga-tui.exe"
             ],
-            "hash": "a119eda2d6756666ca1ccedb9ce5667379bd83788943dd1f4ef40e9b65de36e8"
+            "hash": "e8b67415a28e13aff8d94d0da00d0ae2314d698cc24742fcb9eaa9f47d114dd2"
         }
     },
     "homepage": "https://github.com/zeckitoz/taiga-tui",
